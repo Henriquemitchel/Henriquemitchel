@@ -1,6 +1,6 @@
 ## Olá, me chamo Henrique Mitchel!
 
-Atualmente faço analise e desenvolvimento de sistemas e estou estuando programação com o objetivo de me tornar um programador full stack!
+Atualmente faço faculdade em analise e desenvolvimento de sistemas. Estou estudando programação com o objetivo de me tornar um programador full stack!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
